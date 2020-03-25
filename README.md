@@ -1,0 +1,2 @@
+# NePokesgo
+Pokemon Go coords
